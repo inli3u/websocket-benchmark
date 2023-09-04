@@ -1,5 +1,5 @@
 {
-  "name": "websocket-dummy-server",
+  "name": "websocket-benchmark/server-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
