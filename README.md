@@ -1,1 +1,1 @@
-This project intends to provide a basic websocket server for benchmarking purposes.
+This project intends to benchmark and compare the performance of node and go with a minimal WebSocket server implemented in each.
