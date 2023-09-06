@@ -9,7 +9,7 @@ export function listen(port: number) {
     });
 
     ws.on('message', (data) => {
-      console.log('Socket message', data);
+      console.log('Socket message', data.toString());
     });
   });
 
